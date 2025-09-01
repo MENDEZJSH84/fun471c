@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "fun471c",
+  "upload_source_maps": true,
+  "observability": {
+    "enabled": true
+  },
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_name": "Streaming fun videosdb",
+      "database_id": "7a0c54a5-f72e-4337-b721-a4e0ccebe587"
+    }
+  ]
+}
